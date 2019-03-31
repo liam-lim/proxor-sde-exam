@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="sdc" name="StatsCsvTest" tests="1" time="0.025" timestamp="2013-04-12T13:21:26">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.SESSION_MANAGER" value="local/sdc:@/tmp/.ICE-unix/1144,unix/sdc:/tmp/.ICE-unix/1144" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="os.name" value="Linux" />
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/netx.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/plugin.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/classes" />
+    <property name="env.PWD" value="/home/workspace/stat-greatest-val-csv" />
+    <property name="env.XDG_SESSION_COOKIE" value="782a9a010c174f578134e1aa00000004-1365772804.646744-298549806" />
+    <property name="sun.desktop" value="gnome" />
+    <property name="env.LANG" value="en_US.UTF-8" />
+    <property name="ant.file.type.stat-greatest-val-csv" value="file" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/usr/share/ant" />
+    <property name="java.runtime.version" value="1.7.0_15-b20" />
+    <property name="submission.name" value="/home/exam-submission/stat-greatest-val-csv-submission.zip" />
+    <property name="env.DEFAULTS_PATH" value="/usr/share/gconf/ubuntu-2d.default.path" />
+    <property name="env.DISPLAY" value=":0.0" />
+    <property name="javacsv.location" value="../javacsv" />
+    <property name="user.name" value="sdc" />
+    <property name="env._" value="/usr/bin/ant" />
+    <property name="env.USER" value="sdc" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="env.DESKTOP_SESSION" value="ubuntu-2d" />
+    <property name="env.XDG_DATA_DIRS" value="/usr/share/ubuntu-2d:/usr/share/gnome:/usr/local/share/:/usr/share/" />
+    <property name="env.PATH" value="/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games" />
+    <property name="env.XDG_CURRENT_DESKTOP" value="Unity" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386" />
+    <property name="ant.project.default-target" value="submission" />
+    <property name="ant.project.name" value="stat-greatest-val-csv" />
+    <property name="java.version" value="1.7.0_15" />
+    <property name="user.timezone" value="" />
+    <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-0vAF8dbN7n,guid=64d12ac82f6f0070815ba7cf0000000b" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="env.SSH_AGENT_PID" value="1195" />
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="env.SHLVL" value="1" />
+    <property name="ECLIPSE_HOME" value="/usr/lib/eclipse" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="env.GNOME_DESKTOP_SESSION_ID" value="this-is-deprecated" />
+    <property name="java.class.version" value="51.0" />
+    <property name="env.GDMSESSION" value="ubuntu-2d" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="/usr/lib/jvm/java-7-openjdk-i386/jre" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="env.LOGNAME" value="sdc" />
+    <property name="ant.file" value="/home/workspace/stat-greatest-val-csv/build.xml" />
+    <property name="os.version" value="3.2.0-40-generic-pae" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="23.7-b01" />
+    <property name="ant.library.dir" value="/usr/share/ant/lib" />
+    <property name="env.XDG_SESSION_PATH" value="/org/freedesktop/DisplayManager/Session0" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="env.TERM" value="xterm" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="user.home" value="/home" />
+    <property name="target" value="1.7" />
+    <property name="env.OLDPWD" value="/home/workspace" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.WINDOWID" value="39845894" />
+    <property name="java.library.path" value="/usr/java/packages/lib/i386:/usr/lib/jni:/lib:/usr/lib" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 3 2011" />
+    <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher -cp  test" />
+    <property name="java.class.path" value="/usr/share/ant/lib/ant-launcher.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/xercesImpl.jar:/usr/share/ant/lib/junit.jar:/usr/share/ant/lib/ant-jsch.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-apache-log4j.jar:/usr/share/ant/lib/ant-apache-oro.jar:/usr/share/ant/lib/ant-apache-resolver.jar:/usr/share/ant/lib/ant-antlr.jar:/usr/share/ant/lib/ant-apache-bcel.jar:/usr/share/ant/lib/ant-apache-bsf.jar:/usr/share/ant/lib/ant-launcher.jar:/usr/share/ant/lib/ant-apache-regexp.jar:/usr/share/ant/lib/ant-apache-xalan2.jar:/usr/share/ant/lib/ant-commons-logging.jar:/usr/share/ant/lib/ant-jdepend.jar:/usr/share/ant/lib/ant-javamail.jar:/usr/share/ant/lib/ant-jmf.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-commons-net.jar:/usr/share/ant/lib/ant-testutil.jar:/usr/share/ant/lib/ant-junit4.jar:/usr/share/ant/lib/ant-swing.jar:/usr/lib/jvm/java-7-openjdk-i386/lib/tools.jar" />
+    <property name="env.UBUNTU_MENUPROXY" value="libappmenu.so" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="env.HOME" value="/home" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="env.XDG_SEAT_PATH" value="/org/freedesktop/DisplayManager/Seat0" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SSH_AUTH_SOCK" value="/tmp/keyring-LylIWd/ssh" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="os.arch" value="i386" />
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="ant.file.stat-greatest-val-csv" value="/home/workspace/stat-greatest-val-csv/build.xml" />
+    <property name="user.dir" value="/home/workspace/stat-greatest-val-csv" />
+    <property name="env.XAUTHORITY" value="/home/.Xauthority" />
+    <property name="env.MANDATORY_PATH" value="/usr/share/gconf/ubuntu-2d.mandatory.path" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="OpenJDK Client VM" />
+    <property name="env.COLORTERM" value="gnome-terminal" />
+    <property name="basedir" value="/home/workspace/stat-greatest-val-csv" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="/usr/share/ant/lib/ant.jar" />
+    <property name="source" value="1.7" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="env.GPG_AGENT_INFO" value="/tmp/keyring-LylIWd/gpg:0:1" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="env.GNOME_KEYRING_CONTROL" value="/tmp/keyring-LylIWd" />
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="env.XDG_CONFIG_DIRS" value="/etc/xdg/xdg-ubuntu-2d:/etc/xdg" />
+  </properties>
+  <testcase classname="StatsCsvTest" name="testMain" time="0.003">
+    <error message="Unresolved compilation problems: &#xa;&#x9;Stats cannot be resolved to a type&#xa;&#x9;Stats cannot be resolved to a type&#xa;" type="java.lang.Error">java.lang.Error: Unresolved compilation problems: 
+	Stats cannot be resolved to a type
+	Stats cannot be resolved to a type
+
+	at StatsCsvTest.testMain(StatsCsvTest.java:34)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

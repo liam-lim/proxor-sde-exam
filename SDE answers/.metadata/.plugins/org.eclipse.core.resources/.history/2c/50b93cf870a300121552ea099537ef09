@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="sdc" name="AverageTest" tests="1" time="1.153" timestamp="2013-04-12T13:00:20">
+  <properties>
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386" />
+    <property name="java.vm.version" value="23.7-b01" />
+    <property name="ant.library.dir" value="/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 3 2011" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.name" value="OpenJDK Client VM" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.dir" value="/home/workspace/average-ss" />
+    <property name="java.runtime.version" value="1.7.0_15-b20" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="eclipse.pdebuild.scripts" value="/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.7.0.dist/scripts//" />
+    <property name="basedir" value="/home/workspace/average-ss" />
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/endorsed" />
+    <property name="os.arch" value="i386" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="ant.core.lib" value="/usr/share/java/ant-1.8.2.jar" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="os.name" value="Linux" />
+    <property name="ant.home" value="/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030" />
+    <property name="eclipse.pdebuild.templates" value="/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.7.0.dist/templates//" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="java.library.path" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386/client:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386::/usr/java/packages/lib/i386:/usr/lib/jni:/lib:/usr/lib" />
+    <property name="eclipse.pdebuild.home" value="/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.7.0.dist/.//" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="51.0" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="os.version" value="3.2.0-40-generic-pae" />
+    <property name="ant.file" value="/home/workspace/average-ss/submission.xml" />
+    <property name="user.home" value="/home" />
+    <property name="user.timezone" value="" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="user.name" value="sdc" />
+    <property name="java.class.path" value="/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-antlr.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-apache-bcel.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-apache-bsf.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-apache-log4j.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-apache-oro.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-apache-regexp.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-apache-resolver.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-apache-xalan2.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-commons-logging.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-commons-net.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-javamail.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-jdepend.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-jmf.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-jsch.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-junit.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-junit4.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-launcher.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-swing.jar:/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant.jar:/home/.eclipse/org.eclipse.platform_3.7.0_155965261/configuration/org.eclipse.osgi/bundles/22/1/.cp/lib/antdebug.jar:/home/.eclipse/org.eclipse.platform_3.7.0_155965261/configuration/org.eclipse.osgi/bundles/22/1/.cp/lib/remote.jar:/home/.eclipse/org.eclipse.platform_3.7.0_155965261/configuration/org.eclipse.osgi/bundles/23/1/.cp/lib/remoteAnt.jar:/usr/lib/jvm/java-7-openjdk-i386/lib/tools.jar" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1365771619302 -Declipse.connect.port=58026 -Declipse.pdebuild.home=/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.7.0.dist/.// -Declipse.pdebuild.scripts=/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.7.0.dist/scripts// -Declipse.pdebuild.templates=/usr/lib/eclipse/dropins/sdk/plugins/org.eclipse.pde.build_3.7.0.dist/templates// -Dant.home=/usr/lib/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile /home/workspace/average-ss/submission.xml test" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.home" value="/usr/lib/jvm/java-7-openjdk-i386/jre" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="user.language" value="en" />
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="submission.name" value="/home/exam-submission/${ant.project.name}-submission.zip" />
+    <property name="java.version" value="1.7.0_15" />
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/netx.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/plugin.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-i386/jre/classes" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="file.separator" value="/" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.desktop" value="gnome" />
+    <property name="sun.cpu.isalist" value="" />
+  </properties>
+  <testcase classname="AverageTest" name="test1" time="1.132">
+    <failure message="For input string: &quot;!!!&quot;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: For input string: &quot;!!!&quot;
+	at AverageTest.runOneTest(AverageTest.java:51)
+	at AverageTest.test1(AverageTest.java:58)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:32)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:424)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:138)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
